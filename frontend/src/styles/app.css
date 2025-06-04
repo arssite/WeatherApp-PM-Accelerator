@@ -1,0 +1,31 @@
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+input, button {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.weather-results {
+  display: grid;
+  gap: 1rem;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #f9f9f9;
+}
