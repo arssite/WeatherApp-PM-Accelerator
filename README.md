@@ -32,7 +32,9 @@ A full-stack weather application built for the PM Accelerator AI Engineer Intern
 - **Supabase** - PostgreSQL database with real-time features
 - **OpenWeatherMap API** - Weather data provider
 - **Pydantic** - Data validation
-- **HTTPX** - Async HTTP client
+- **HTTPX** - Async HTTP client <br>
+![image](https://github.com/user-attachments/assets/aff892b8-e738-4c85-92e7-ffa6e397fc7d)
+![Screenshot 2025-06-04 210909](https://github.com/user-attachments/assets/bba748aa-e3b0-4a82-ae15-2501a4549237)
 
 ### Frontend
 - **React** - Component-based UI library
