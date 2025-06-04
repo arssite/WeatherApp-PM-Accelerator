@@ -4,6 +4,7 @@
 > **Portfolio:** [arssiteportfolio.netlify.app](https://arssiteportfolio.netlify.app/)  
 > **LinkedIn:** [linkedin.com/in/anmol-r-srivastava](https://www.linkedin.com/in/anmol-r-srivastava/)  
 > **GitHub:** [github.com/arssite](https://github.com/arssite)
+> **Video Link** [Drive Link](https://drive.google.com/file/d/1POOvOL9gWYv1KbknsR_FMuYsKSqJ1lvf/view?usp=sharing)
 
 A full-stack weather application built for the PM Accelerator AI Engineer Intern position, featuring real-time weather data, CRUD operations, and database persistence.
 
@@ -204,7 +205,7 @@ POST /create-weather/
 
 ## 🌐 Live Demo
 
-[Demo Video Link] - *Will be provided separately*
+[Demo Video Link] - (https://drive.google.com/file/d/1POOvOL9gWYv1KbknsR_FMuYsKSqJ1lvf/view?usp=sharing)
 
 ## 🔐 Environment Variables
 
